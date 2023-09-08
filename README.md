@@ -1,3 +1,14 @@
+<details>
+  <summary>English</summary>
+  
+    
+  
+  Conteúdo da aba expansível aqui.
+</details>
+<details>
+<summary>Português :brazil:	 </summary>
+:brazil:
+</details>
 # Gerador de Senhas
 O projeto consiste em uma aplicação Java de desktop que permite gerar senhas aleatórias com base em critérios definidos pelo usuário, como comprimento da senha e os tipos de caracteres a serem incluídos (letras, números e símbolos).
 
