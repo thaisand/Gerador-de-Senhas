@@ -1,7 +1,7 @@
 Please select the language: 
 
 <details>
-  <summary> 🇺🇸 </summary>
+  <summary> ![Alt text](image-1.png) </summary>
 
  # Password Generator
 The project consists of a desktop Java application that allows random passwords to be generated based on user-defined criteria, such as password length and the types of characters to be included (letters, numbers and symbols).
@@ -20,7 +20,7 @@ To use the application, follow these steps:
 5. Repeat the process: If you want to generate another password, you can adjust the preferences and click the "Generate" button again.
 </details>
 <details>
-<summary> 🇧🇷 </summary>
+<summary> ![Alt text](image.png) </summary>
 
 # Gerador de Senhas
 O projeto consiste em uma aplicação Java de desktop que permite gerar senhas aleatórias com base em critérios definidos pelo usuário, como comprimento da senha e os tipos de caracteres a serem incluídos (letras, números e símbolos).
