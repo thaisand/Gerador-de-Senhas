@@ -1,4 +1,4 @@
-Please select the language: 
+Please select a language: 
 
 <details>
   <summary> English  </summary>
